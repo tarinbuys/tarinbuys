@@ -51,9 +51,6 @@
 
 <a href="https://github.com/tarinbuys/github-readme-activity-graph"><img alt="Tarin Buys's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TarinBuys&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-[![Tarin Buys's github activity graph](https://activity-graph.herokuapp.com/graph?username=tarinbuys&bg_color=0D1117&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/tarinbuys/github-readme-activity-graph)
-
-
 <br/>
 <br/>
 
