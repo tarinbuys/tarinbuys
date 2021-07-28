@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="./arona%20frontend.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/tarinbuys/tarinbuys/blob/main/images/arona%20frontend.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arona</h1>
 <h3 align="center">I'm an aspiring Frontend Developer from South Africa.</h3>
@@ -9,8 +9,6 @@
 - 🔭 I’m currently working on **[Frontend Mentor Beginner Projects](https://www.frontendmentor.io/profile/tarinbuys)**
 
 - 🌱 I’m currently learning **Javascript, Bootstrap and React**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://buysmanagement.co.za/portfolio)**
 
